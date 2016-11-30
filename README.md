@@ -6,7 +6,7 @@ Find the password for this program.
 - Your file should contain the exact password, no new line, no extra space
 
 ```
-julien@ubuntu:~/0x13. Binary$ ./crackme3 `cat 101-password`
+julien@holberton:~/0x13. Binary$ ./crackme3 `cat 101-password`
 Congratulations!
-julien@ubuntu:~/0x13. Binary$ 
+julien@holberton:~/0x13. Binary$ 
 ```
